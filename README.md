@@ -1,10 +1,10 @@
-# CS214-Project2
+# Files-Similarity
 
 Isaac Chun
-netID: ikc9
 
 Benjamin Lee
-netID: bjl170
+
+This program analyzes set of files then calculates Jensen_Shannon distance between the word frequencies of pairs of files.
 
 We checked for error cases:
 
